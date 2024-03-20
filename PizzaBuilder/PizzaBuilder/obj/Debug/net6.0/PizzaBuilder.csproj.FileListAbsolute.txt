@@ -1,0 +1,15 @@
+D:\VisualStudioRepos\PizzaBuilder\PizzaBuilder\bin\Debug\net6.0\PizzaBuilder.exe
+D:\VisualStudioRepos\PizzaBuilder\PizzaBuilder\bin\Debug\net6.0\PizzaBuilder.deps.json
+D:\VisualStudioRepos\PizzaBuilder\PizzaBuilder\bin\Debug\net6.0\PizzaBuilder.runtimeconfig.json
+D:\VisualStudioRepos\PizzaBuilder\PizzaBuilder\bin\Debug\net6.0\PizzaBuilder.dll
+D:\VisualStudioRepos\PizzaBuilder\PizzaBuilder\bin\Debug\net6.0\PizzaBuilder.pdb
+D:\VisualStudioRepos\PizzaBuilder\PizzaBuilder\obj\Debug\net6.0\PizzaBuilder.csproj.AssemblyReference.cache
+D:\VisualStudioRepos\PizzaBuilder\PizzaBuilder\obj\Debug\net6.0\PizzaBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioRepos\PizzaBuilder\PizzaBuilder\obj\Debug\net6.0\PizzaBuilder.AssemblyInfoInputs.cache
+D:\VisualStudioRepos\PizzaBuilder\PizzaBuilder\obj\Debug\net6.0\PizzaBuilder.AssemblyInfo.cs
+D:\VisualStudioRepos\PizzaBuilder\PizzaBuilder\obj\Debug\net6.0\PizzaBuilder.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepos\PizzaBuilder\PizzaBuilder\obj\Debug\net6.0\PizzaBuilder.dll
+D:\VisualStudioRepos\PizzaBuilder\PizzaBuilder\obj\Debug\net6.0\refint\PizzaBuilder.dll
+D:\VisualStudioRepos\PizzaBuilder\PizzaBuilder\obj\Debug\net6.0\PizzaBuilder.pdb
+D:\VisualStudioRepos\PizzaBuilder\PizzaBuilder\obj\Debug\net6.0\PizzaBuilder.genruntimeconfig.cache
+D:\VisualStudioRepos\PizzaBuilder\PizzaBuilder\obj\Debug\net6.0\ref\PizzaBuilder.dll
